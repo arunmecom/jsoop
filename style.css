@@ -37,3 +37,6 @@ body {
 .title>span{
     border-bottom: 2px dotted grey;
 }
+ul{
+    list-style: none;
+}
